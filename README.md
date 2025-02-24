@@ -31,7 +31,8 @@ Change the "keyword" to any tamil transliteration words like Aram, Mazhai, Inbam
 	    python sample.py --out_dir=out-tirukkural-hf --device=cpu --start="Anbu"
  
 ![output](https://github.com/user-attachments/assets/769a43c6-4ce3-48de-9e9c-e3135f83b82d)
-     
+
+> Note: While the results might not always make 100% sense, the key takeaway is that exploring LLM on a small scale with limited resouce and understanding how these models  work is incredibly valuable. I strongly believe it’s a great way to learn, iterate, and refine skills.
 
 ##### Acknowledgements
 
