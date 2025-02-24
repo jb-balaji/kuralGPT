@@ -2,7 +2,8 @@
 # kuralGPT
  This is a fun project based on nanoGPT, that generates Thirukkural in transliteration format. I am using a simple data set from hugging face. 
  
-Steps to install and run this repo.
+## Quickstart 
+Steps to install dependencies, download the dataset, train the model and run the sample application.
 
 ##### Clone the Repo:
     https://github.com/jb-balaji/kuralGPT
@@ -29,6 +30,7 @@ Change the "keyword" to any tamil transliteration words like Aram, Mazhai, Inbam
 
 	    python sample.py --out_dir=out-tirukkural-hf --device=cpu --start="Anbu"
  
+![output](https://github.com/user-attachments/assets/769a43c6-4ce3-48de-9e9c-e3135f83b82d)
      
 
 ##### Acknowledgements
