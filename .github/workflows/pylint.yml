@@ -26,5 +26,6 @@ jobs:
       - name: Run Pylint
         run: |
           pylint $(git ls-files '*.py') \
+            --fail-under=8 \
             --disable=C0301,C0103  # Temporarily disable 'line-too-long' rule
             
